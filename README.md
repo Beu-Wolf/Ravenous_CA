@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ## Project Purpose
 
 This project was done following a guide in [Codeacademy](https://www.codecademy.com/learn). The purpose of this project was to learn about React and develop my JavaScript skills.
